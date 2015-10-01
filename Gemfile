@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
-ruby '2.2.3'
+ruby '2.2.2'
+
+gem 'intercom-rails'
+gem 'letter_opener'
+
 gem 'rails', '4.2.4'
 gem 'sqlite3'
 gem 'sass-rails', '~> 5.0'
